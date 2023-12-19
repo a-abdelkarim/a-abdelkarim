@@ -6,6 +6,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/a-abdelkarim)
 [![Portfolio](https://img.shields.io/badge/Portfolio-success?style=flat&logo=netlify&labelColor=success)](https://a-abdelkarim.netlify.app)
 
+![Dynamic](https://img.shields.io/badge/Dynamic%20Effect-Amazing!-yellow?style=for-the-badge&logo=javascript)
+
 ---
 
 ## About Me
@@ -27,7 +29,7 @@ Hey! I'm Ahmed, a GIS/Software Developer based in Cairo. I'm all about turning c
 
 ## Current Gig
 
-### GIS / Software Developer @ Strategizeit Egypt
+### GIS / Software Developer @ Strategizeit Egypt (Mar 2022 - Present)
 
 - 🚀 Leading the charge in developing GIS applications for smoother operations.
 - 🌍 Integrating ArcGIS and Odoo systems for a seamless experience.
@@ -38,7 +40,7 @@ Hey! I'm Ahmed, a GIS/Software Developer based in Cairo. I'm all about turning c
 
 ## Side Hustles
 
-### Freelance Software Developer
+### Freelance Software Developer (Sept 2019 - Mar 2021)
 
 - 🎉 Innovatively developing software solutions tailored to diverse needs.
 - 🧐 Rigorously testing and debugging code for optimal performance.
