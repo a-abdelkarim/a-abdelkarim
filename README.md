@@ -27,7 +27,7 @@ Hey! I'm Ahmed, a GIS/Software Developer based in Cairo. I'm all about turning c
 
 ## Current Gig
 
-### GIS / Software Developer @ Strategizeit Egypt (Mar 2022 - Present)
+### GIS / Software Developer @ Strategizeit Egypt
 
 - 🚀 Leading the charge in developing GIS applications for smoother operations.
 - 🌍 Integrating ArcGIS and Odoo systems for a seamless experience.
@@ -38,7 +38,7 @@ Hey! I'm Ahmed, a GIS/Software Developer based in Cairo. I'm all about turning c
 
 ## Side Hustles
 
-### Freelance Software Developer (Sept 2019 - Mar 2021)
+### Freelance Software Developer
 
 - 🎉 Innovatively developing software solutions tailored to diverse needs.
 - 🧐 Rigorously testing and debugging code for optimal performance.
