@@ -2,7 +2,9 @@
 
 🌍 Maadi, Cairo, Egypt | 📞 +201026064028 | 📧 a.abdelkarim9696@gmail.com
 
-[LinkedIn](https://linkedin.com/in/a-abdelkarim) | [GitHub](https://github.com/a-abdelkarim) | [Portfolio](https://a-abdelkarim.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/a-abdelkarim)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/a-abdelkarim)
+[![Portfolio](https://img.shields.io/badge/Portfolio-success?style=flat&logo=netlify&labelColor=success)](https://a-abdelkarim.netlify.app)
 
 ---
 
@@ -49,4 +51,3 @@ Hey! I'm Ahmed, a GIS/Software Developer based in Cairo. I'm all about turning c
 🌟 I'm always up for a chat, collaboration, or even just geeking out over the latest tech trends. Connect with me on [LinkedIn](https://linkedin.com/in/a-abdelkarim) or check out my [Portfolio](https://a-abdelkarim.netlify.app).
 
 ---
-
