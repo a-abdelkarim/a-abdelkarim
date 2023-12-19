@@ -6,8 +6,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&labelColor=black)](https://github.com/a-abdelkarim)
 [![Portfolio](https://img.shields.io/badge/Portfolio-success?style=flat&logo=netlify&labelColor=success)](https://a-abdelkarim.netlify.app)
 
-![Dynamic](https://img.shields.io/badge/Dynamic%20Effect-Amazing!-yellow?style=for-the-badge&logo=javascript)
-
 ---
 
 ## About Me
