@@ -41,7 +41,7 @@ Hey! I'm Ahmed, a GIS/Software Developer based in Cairo. I'm all about turning c
 
 ## Side Hustles
 
-### Freelance Software Developer (Sept 2019 - Mar 2021)
+### Freelance Software Developer
 
 - 🎉 Innovatively developing software solutions tailored to diverse needs.
 - 🧐 Rigorously testing and debugging code for optimal performance.
