@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Ahmed Abdelkarim
+# Hey there! 👋 I'm Ahmed
 
 🌍 Maadi, Cairo, Egypt | 📞 +201026064028 | 📧 a.abdelkarim9696@gmail.com
 
@@ -13,7 +13,7 @@
 
 ## About Me
 
-Hey! I'm Ahmed, a GIS/Software Developer based in Cairo. I'm all about turning cool ideas into reality, especially when it comes to GIS applications and software magic.
+Hey! I'm Ahmed, a GIS/Software Developer. I'm all about turning cool ideas into reality, especially when it comes to GIS applications and software magic.
 
 🚀 I love building things that make life easier and more fun. Whether it's GIS applications, creative software solutions, or troubleshooting tech challenges, I'm all in!
 
